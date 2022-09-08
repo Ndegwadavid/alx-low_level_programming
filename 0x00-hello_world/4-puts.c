@@ -1,12 +1,13 @@
 
-/*inputting file using the put functions*/
 
 
-#include <stdio.h>
+#include <stdio.h> 
 
+/**
+ *  *main - Entry point
+ *  Return: Always 0 (success)
+ */
 
-/*return always to be zero*/
-/*main - entry point*/
 
 
 int main(void)
