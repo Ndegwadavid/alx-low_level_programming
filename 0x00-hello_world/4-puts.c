@@ -1,4 +1,4 @@
-#!/bin/bash
+
 /*inputting file using the put functions*/
 
 
