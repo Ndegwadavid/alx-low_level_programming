@@ -2,7 +2,7 @@
 /*inputting file using the put functions*/
 
 
-#include<stdio.h>
+#include <stdio.h>
 
 
 /*return always to be zero*/
