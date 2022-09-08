@@ -1,0 +1,2 @@
+#!/bin/bash
+cc -c file1.o  $CFILE.c
