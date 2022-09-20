@@ -6,13 +6,14 @@
  * @s: this is the string to check
  *
  * Return: int length of the string
+ * in this case sl is var name for the string length
  */
 
 int _strlen(char *s)
 {
-	int length = 0;
+	int sl;
 
-	while (s[length])
-		length++;
-	return (length);
+	for (sl = 0; s[sl] != '\0'; sl++)
+	{}
+	return (sl);
 }
