@@ -1,7 +1,7 @@
 #include "main.h"
 
-/*
- * _print_rev_recursion - reverse
+/**
+ * _print_rev_recursion - twende reverse
  * @s: string to recurse
  */
 
