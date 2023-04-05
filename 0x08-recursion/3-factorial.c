@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * factorial - give fucktorial of numbmer
