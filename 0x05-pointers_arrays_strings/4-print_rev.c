@@ -2,12 +2,10 @@
 
 #include "2-strlen.c"
 /**
- * print_rev - the reverse gear
- * @s: print this string
+ * print_rev - reverse a string
  *
- * Return: always 0.
+ * @s: string to print
  */
-
 void print_rev(char *s)
 {
 	int i;
